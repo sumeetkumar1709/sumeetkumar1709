@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on CodeNext WebApp<br>👯 I’m looking to collaborate on different projects<br>🤝 I’m looking for help with new projects<br>🌱 I’m currently learning data structures and algorithms<br>💬 Ask me about anything 😁<br>⚡ Computers are fast we make them slow
+🔭 I’m currently working on personal development<br>👯 I’m looking to collaborate on different projects<br>🤝 I’m looking for help with new projects<br>🌱 I’m currently learning data structures and algorithms<br>💬 Ask me about anything 😁<br>⚡ Computers are fast we make them slow
 
 
 ## 🌐 Socials:
